@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="colores">
+        <item>Rosado</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Negro</item>
+        <item>Amarillo</item>
+        <item>Azul</item>
+        <item>Morado</item>
+        <item>Naranja</item>
+    </string-array>
+    <string-array name = "configuracion">
+        <item>Color de fondo</item>
+        <item>Comparte esta aplicación</item>
+        <item>Configuración</item>
+        <item>Tutorial</item>
+        <item>Acerca de</item>
+        <item>Salir</item>
+    </string-array>
+
+</resources>

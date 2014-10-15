@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Saldo</string>
+    <string name="actualizacion">Tiempo de Actualizacion</string>
+    <string name="menu_settings">Settings</string>
+    <string name="mi_primer_widget">Saldo</string>
+    <string name="acerca">Acerca de</string>
+    <string name="Compartir">Compartir</string>
+    <string name="Cerrar">Salir</string>
+    <string name="Configurar">Configuracion</string>
+    <string name="lllMensaje">Tu saldo es 0.00 colones</string>
+    <string name="sColor">Color de fondo</string>
+    <string name="sCompartir">Comparte esta aplicación</string>
+    <string name="sEstado">Visualizar consumo internet</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="white">#ffffff</color>
+  <color name="Tblack">#000000</color>
+  <color name="pink">#99f58b8b</color>
+  <color name="red">#99ff0000</color>
+  <color name="green">#999afa45</color>
+  <color name="black">#99000000</color>
+  <color name="yellow">#99eef937</color>
+  <color name="blue">#99376ef9</color>
+  <color name="purple">#99f937f2</color>
+  <color name="orange">#99f99d18</color>
+  <color name="transparent">#00000000</color>
+</resources>
